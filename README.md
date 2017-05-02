@@ -12,10 +12,10 @@ Building
 --------
 
   You need to build on Linux, and probably Ubuntu Linux. You will also need the
-  [Bazel](http://www.bazel.io/) build system installed. Go
-  [here](http://www.bazel.io/docs/install.html) to get it. There's a Debian
-  package, so installation is easy; the only caveat is that it requires Java
-  (sorry).
+  [Bazel](http://www.bazel.io/) build system installed, bazel 0.3.1 is currently
+  the only know version to work. Go [here](http://www.bazel.io/docs/install.html)
+  to get it. There's a Debian package, so installation is easy; the only caveat
+  is that it requires Java (sorry).
 
   You can build the dev track simply by running:
 
